@@ -1,0 +1,9 @@
+node_modules/
+
+# compiled
+dist/
+
+
+tsconfig.tsbuildinfo
+
+
